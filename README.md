@@ -1,11 +1,34 @@
-# DATA SCIENTIST 
+# Divansh Prasad 
 
-#### Technical Skills: Python, SQL, Java, C/C++, HTML, CSS, Javascript, PHP.
+## Technical Skills
+- Python
+- SQL
+- Java
+- C/C++
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MERN Stack
+- LAMP Stack
+- MySQL
+- PowerBI
+- PostgreSQL
+- MongoDB
+- Apache Hadoop
+- Apache Hive
+- Apache Spark
+- Apache Superset
+  
 
 ## EDUCATION
 B. Tech, Data Science, Manipal Institue of Tecnology, Manipal, Karnataka.
 
 ## WORK EXPERIENCE 
+**Research Intern @ IIT Delhi (December 2023)**
+- Worked on integrating Alexa SDK with EaspberryPi.
+- Created smart mirror using RaspberryPi.
+
 **Data Science Intern @ Goalkeep (June 2023- July 2023)**
 - Designed interactive dashboards and created various charts and visualisations using Apache Superset.
 - Established database connections and data exploration using Airtable and Microsoft Excel.
