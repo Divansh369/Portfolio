@@ -1,2 +1,30 @@
-title: DIVANSH PRASAD
-show_downloads: true
+name: Deploy Portfolio
+
+on:
+  push:
+    branches:
+      - main  # Adjust the branch name as needed
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Copy portfolio.html to root folder
+      run: cp portfolio.html ./  # Adjust the filename as needed
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Deploy portfolio.html to root folder"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main  # Adjust the branch name as needed
