@@ -38,3 +38,5 @@ B. Tech, Data Science, Manipal Institue of Tecnology, Manipal, Karnataka.
 **Data Science Intern @ iThought [NGO] (December 2022- January 2023)**
 - Mined and structured data from NCRB and PSI.
 - Analyzed PSI data to identify trends.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divansh369&layout=compact)
