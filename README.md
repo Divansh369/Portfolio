@@ -41,12 +41,18 @@
   <li>Improving my skills in full-stack development.</li>
 </ul>
   
-<br />
-<br />
 
+</br >
+</br >
+</br >
+</br ></br >
+</br ></br >
+</br ></br >
+</br ></br >
+</br ></br >
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">🏆 Github Trophies 🏆</h2>
 <p align="center">
   <a href="https://github.com/Divansh369">
     <picture>
@@ -58,21 +64,21 @@
 </p>
 <br />
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<!-- Github stats Table -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Divansh369">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Divansh369&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt=" Sparsh's GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Divansh369&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="Sparsh's GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/Divansh369">
           <img align="center" src="https://streak-stats.demolab.com?user=Divansh369&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -81,19 +87,11 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Divansh369/LeetCode">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Divansh369&repo=canvascraft&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="canvascraft" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+    <td colspan="2">
+      <h3 align="center"><strong>Most Used Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/Divansh369">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Divansh369&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" height="450" width="940" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divansh369&repo=canvascraft&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Most Used Languages" />
         </a>
       </p>
     </td>
